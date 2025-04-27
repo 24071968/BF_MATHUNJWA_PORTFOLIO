@@ -104,7 +104,7 @@
 }
 
 .logo {
-    color: wheat;
+    color: white;
     font-size: 24px;
     font-weight: bold;
 }
@@ -133,9 +133,9 @@
 }
 
 .nav__list li a:hover {
-    border-color: #d63384;
-    background-color: black;
-    color: #d63384;
+    border-color: White;
+    background-color: White;
+    color: black;
 }
 
 footer {
@@ -333,12 +333,12 @@ body {
 }
 
 .fa-user {
-    border-color: #d63384;
+    border-color: white;
     color: white;
     font-size: 24px;
     font-weight: bold;
 }
 
 .fa-user:hover {
-    color: #d63384;
+    color: white;
 }
