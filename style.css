@@ -214,6 +214,18 @@ img {
     color: black;
 }
 
+.contact-wrapper {
+    max-width: 800px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 20PX auto;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 3);
+    border-radius: 8px;
+
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
