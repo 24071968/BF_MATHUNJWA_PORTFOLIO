@@ -234,6 +234,16 @@ body {
     color: black;
 }
 
+table {
+    background-color: black;
+}
+
+tr {
+    background-color: white;
+    text-align: center;
+}
+
+
 .project-body {
     content: "";
     background: url('../BF_MATHUNJWA_PORTFOLIO/images/wakl.jpg') no-repeat center center/cover;
